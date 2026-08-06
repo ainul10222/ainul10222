@@ -23,6 +23,7 @@ I’m Ainul, a student pursuing my B.Sc. in Computer Science & Engineering at No
     <td><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" /></td>
     <td><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" /></td>
     <td><img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" /></td>
+    <td><img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /></td>
   </tr>
 </table>
 
