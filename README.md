@@ -44,7 +44,7 @@ I’m Ainul, a student pursuing my B.Sc. in Computer Science & Engineering at No
       <img src="https://github-readme-stats-fast.vercel.app/api?username=ainul10222&show_icons=true&theme=github_dark" />
     </td>
     <td align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainul10222&layout=compact&theme=github_dark&v=2" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ainul10222&layout=compact&theme=github_dark&v=3" />
     </td>
   </tr>
   <tr>
