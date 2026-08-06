@@ -58,6 +58,7 @@ I’m Ainul, a student pursuing my B.Sc. in Computer Science & Engineering at No
 <a href="https://github.com/rafisarkar0128/crop_disease_identification"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rafisarkar0128&repo=crop_disease_identification&theme=github_dark" /></a>
 <a href="https://github.com/ainul10222/currencyconverter"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ainul10222&repo=currencyconverter&theme=github_dark" /></a>
 <a href="https://github.com/rafisarkar0128/c-gui-calculator"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rafisarkar0128&repo=c-gui-calculator&theme=github_dark" /></a>
+<a href="https://github.com/ainul10222/Campus_Navigation_System"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ainul10222&repo=Campus_Navigation_System&theme=github_dark" /></a>
 
 ---
 
